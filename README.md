@@ -33,5 +33,12 @@
 
 
 
-## 완료된 리스트
+## 수행 리스트
 1. 듀얼OS로 우분투 설치 완료
+2. cmd 명령어 공부중
+
+
+
+
+## 강의 목록
+- [`생활코딩 - 리눅스(Linux)`](https://edu.goorm.io/learn/lecture/12984/%EC%83%9D%ED%99%9C%EC%BD%94%EB%94%A9-%EB%A6%AC%EB%88%85%EC%8A%A4-linux/info)
