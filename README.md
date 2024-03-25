@@ -42,3 +42,4 @@
 
 ## 강의 목록
 - [`생활코딩 - 리눅스(Linux)`](https://edu.goorm.io/learn/lecture/12984/%EC%83%9D%ED%99%9C%EC%BD%94%EB%94%A9-%EB%A6%AC%EB%88%85%EC%8A%A4-linux/info)
+- [`리눅스 유튜브 강의`](https://www.youtube.com/watch?v=TZjB94sA3IU&list=PL3Ft9YwZYhoIjWhIWeULyyTKhYg1rhcyB&index=2)
